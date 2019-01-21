@@ -1,0 +1,16 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+172.16.1.100 zabbix
+172.16.1.160 salt0-master
+172.16.1.161 salt1-minion
+172.16.1.162 salt2-minion
+172.16.1.163 salt3-minion
+172.16.1.164 salt4-minion
+---------------prod---------------
+172.16.1.5 lb01
+172.16.1.6 lb02
+172.16.1.7 web01
+172.16.1.8 web02
+172.16.1.51 db01
+172.16.1.52 db02
+

@@ -1,0 +1,14 @@
+include:
+  - init.basis.repo
+  - init.basis.limit
+  - init.basis.sshd
+  - init.basis.sysctl
+  - init.basis.history
+  - init.basis.ntp
+  - init.basis.user
+  - init.basis.ssh-key
+  - init.basis.dns
+  - init.basis.firewall
+  - init.basis.pkg
+  - init.basis.zabbix-agent
+  - init.basis.all-backup
